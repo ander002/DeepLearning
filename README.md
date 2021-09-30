@@ -7,4 +7,4 @@
 > 反向传播误差，计算图，梯度消失和爆炸，层和块，参数管理，自定义层，管理文件，卷积神经网络，LeNet
 
 ## DeepLearning_4.ipynb的内容
-> 现代卷积神经网络，AlexNet
+> 现代卷积神经网络，AlexNet,VGG,NiN,GooLeNet,批量归一化
